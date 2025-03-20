@@ -25,15 +25,15 @@ These are the first projects to fully adopt the original software design theory 
 ## SERVICES:
 
 ### [@TOYS/OSAKA](https://github.com/T-O-Y-S/OSAKA)
-- Personal Data-Model Generate-AI, ChatBot with LLM. Vinal of OSAKA.
+Personal Data-Model Generate-AI, ChatBot with LLM. Vinal of OSAKA.
 
 ### [@GraffMesh/OSAKA](https://github.com/graffmesh/OSAKA)
-- Redefining Urban Expression in the Digital Age, Vinyl of OSAKA.
+Redefining Urban Expression in the Digital Age, Vinyl of OSAKA.
 
 ## LISENCE:
 
-- GPL-3.0 license
+GPL-3.0 license
 
 ## AUTHOR:
 
-- Susumu Fujii as KANASIKA as Sujii(i) as NEMURU.
+Susumu Fujii as KANASIKA as Sujii(i) as NEMURU.
