@@ -1,4 +1,4 @@
-<img width="100" src="https://github.com/user-attachments/assets/f4e344b7-9c90-47c1-abfb-3b1d4f1095e7" style="border-radius: 3px;over-flow: hidden;" />
+<img width="100" src="https://github.com/user-attachments/assets/f4e344b7-9c90-47c1-abfb-3b1d4f1095e7" />
 
 # @VVVVISE/OSAKA
 
